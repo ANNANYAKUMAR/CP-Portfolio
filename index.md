@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Annanya Kumar's Programming Portfolio
+
+![typingtest]( https://github.com/ANNANYAKUMAR/CP-Portfolio/blob/gh-pages/images/TypingTest.png)
 
 You can use the [editor on GitHub](https://github.com/ANNANYAKUMAR/CP-Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
